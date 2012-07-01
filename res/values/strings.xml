@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="app_name">GPSService</string>		
+        <string name="GETLOCATION">Get location</string>
+		<string name="NOLATAVAIL">(no lat)</string>
+		<string name="NOLONAVAIL">(no lon)</string>
+		<string name="NOTIMEAVAIL">(no time)</string>		
+</resources>
